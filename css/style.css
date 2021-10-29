@@ -20,7 +20,7 @@ img {
 
 .title {
   font: bold 48px Nunito, Arial, sans-serif;
-  line-height: 72px;
+  line-height: 1;
 }
 
 .information_bg {
@@ -79,14 +79,11 @@ img {
   margin: 0 10px;
 }
 
-.menu_items li {
-  margin-right: 20px;
-}
-
 .menu_items li a{
   font: 20px Nunito, Arial, sans-serif;
   line-height: 32px;
   color: var(--branco);
+  padding: 10px;
 }
 
 .menu_items li a:hover {
@@ -339,7 +336,7 @@ img {
 }
 
 .newsletter_information {
-  flex: 1 1 240px;
+  flex: 1 1 200px;
   margin: 0 10px;
 }
 
@@ -364,9 +361,9 @@ img {
 }
 
 .newsletter_form input {
-  flex: 3 1 260px;
+  flex: 3 1 200px;
   border: 4px solid var(--azul);
-  padding: 15px 10px;
+  padding: 10px;
   color: var(--cinza);
   font: italic 20px Nunito, Arial, sans-serif;
   line-height: 32px;
@@ -381,4 +378,21 @@ img {
   padding: 15px 10px;
   text-transform: uppercase;
   cursor: pointer;
+}
+
+.copy_bg {
+  width: 100%;
+  background: var(--azul_marinho);
+}
+
+.copy {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.copy p {
+  font: 18px Nunito, Arial, sans-serif;
+  color: var(--branco);
+  margin: 0 10px;
 }
