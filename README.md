@@ -7,5 +7,5 @@
 # O QUE VOU APRENDER DEPOIS? :soon:
  Pretendo partir para o grid layout. Estou ansiosa para aprender o grid layout e suas propriedades, pois já vi algumas coisas sobre ele e me parece uma maneira muito fácil de configurar o layout da página.
 
-#COMO FICOU O SITE:
+# COMO FICOU O SITE:
 ![Foto Site FlexBlog](https://user-images.githubusercontent.com/89921032/140181532-e6db6baa-4edc-48de-ab45-f6eb80a8df2c.png)
